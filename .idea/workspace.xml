@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="538e0fe7-49ae-48f9-9394-2424d02ee23b" name="Default" comment="" />
+    <list default="true" id="538e0fe7-49ae-48f9-9394-2424d02ee23b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+            <state relative-caret-position="337">
+              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
               <folding>
                 <element signature="e#326#327#0" expanded="true" />
                 <element signature="e#380#381#0" expanded="true" />
@@ -65,6 +67,35 @@
                 <element signature="e#1215#1216#0" expanded="true" />
                 <element signature="e#1261#1262#0" expanded="true" />
                 <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#1414#1415#0" expanded="true" />
+                <element signature="e#1444#1445#0" expanded="true" />
+                <element signature="e#1484#1485#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#1554#1555#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1822#1823#0" expanded="true" />
+                <element signature="e#1852#1853#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +110,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/com/exe/principle/singleresponsibility/SingleResponsibility2.java" />
         <option value="$PROJECT_DIR$/src/com/exe/principle/singleresponsibility/SingleResponsibility3.java" />
         <option value="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" />
+        <option value="$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java" />
       </list>
     </option>
   </component>
@@ -167,6 +202,16 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="exe" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+              <item name="improve" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="exe" type="462c0819:PsiDirectoryNode" />
+              <item name="principle" type="462c0819:PsiDirectoryNode" />
               <item name="singleresponsibility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -180,12 +225,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringApplication" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\project\DesignPattern\src\com\exe\principle\segregation\improve" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +250,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleResponsibility3">
+  <component name="RunManager" selected="Application.Segregation1">
+    <configuration name="Segregation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exe.principle.segregation.improve.Segregation1" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exe.principle.segregation.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SingleResponsibility1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exe.principle.singleresponsibility.SingleResponsibility1" />
       <module name="DesignPattern" />
@@ -278,9 +340,11 @@
       <item itemvalue="Application.SingleResponsibility1" />
       <item itemvalue="Application.SingleResponsibility2" />
       <item itemvalue="Application.SingleResponsibility3" />
+      <item itemvalue="Application.Segregation1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Segregation1" />
         <item itemvalue="Application.SingleResponsibility3" />
         <item itemvalue="Application.SingleResponsibility2" />
         <item itemvalue="Application.SingleResponsibility1" />
@@ -298,12 +362,21 @@
       <option name="presentableId" value="Default" />
       <updated>1622169209632</updated>
       <workItem from="1622169233154" duration="8126000" />
-      <workItem from="1622420613051" duration="598000" />
+      <workItem from="1622420613051" duration="7046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8724000" />
+    <option name="totallyTimeSpent" value="15172000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -316,31 +389,31 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="bottom" id="Statistic" order="7" weight="0.32936978" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936978" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936978" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14686824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14686824" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="7" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +469,18 @@
             <element signature="e#1215#1216#0" expanded="true" />
             <element signature="e#1261#1262#0" expanded="true" />
             <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1852#1853#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -423,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+        <state relative-caret-position="337">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
           <folding>
             <element signature="e#326#327#0" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
@@ -446,6 +531,33 @@
             <element signature="e#1215#1216#0" expanded="true" />
             <element signature="e#1261#1262#0" expanded="true" />
             <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1852#1853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538e0fe7-49ae-48f9-9394-2424d02ee23b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="440">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#461#462#0" expanded="true" />
@@ -96,6 +96,55 @@
                 <element signature="e#561#562#0" expanded="true" />
                 <element signature="e#607#608#0" expanded="true" />
                 <element signature="e#661#662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DependecyInversion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/DependecyInversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DependecyInversion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependecyInversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DependencyPass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependencyPass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#1640#1641#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,6 +170,9 @@
         <option value="$PROJECT_DIR$/src/com/exe/principle/singleresponsibility/SingleResponsibility3.java" />
         <option value="$PROJECT_DIR$/src/com/exe/principle/segregation/Segregation1.java" />
         <option value="$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java" />
+        <option value="$PROJECT_DIR$/src/com/exe/principle/inversion/DependecyInversion.java" />
+        <option value="$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependecyInversion.java" />
+        <option value="$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependencyPass.java" />
       </list>
     </option>
   </component>
@@ -193,7 +245,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="exe" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+              <item name="inversion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -202,17 +254,8 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="exe" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+              <item name="inversion" type="462c0819:PsiDirectoryNode" />
               <item name="improve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="exe" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="singleresponsibility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,6 +278,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\project\DesignPattern\src\com\exe\principle\inversion\improve" />
       <recent name="F:\idea\project\DesignPattern\src\com\exe\principle\segregation\improve" />
     </key>
   </component>
@@ -250,7 +294,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Segregation1">
+  <component name="RunManager" selected="Application.DependencyPass">
+    <configuration name="DependecyInversion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exe.principle.inversion.improve.DependecyInversion" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exe.principle.inversion.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DependecyInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exe.principle.inversion.DependecyInversion" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exe.principle.inversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DependencyPass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exe.principle.inversion.improve.DependencyPass" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exe.principle.inversion.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Segregation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exe.principle.segregation.improve.Segregation1" />
       <module name="DesignPattern" />
@@ -258,28 +335,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.exe.principle.segregation.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SingleResponsibility1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exe.principle.singleresponsibility.SingleResponsibility1" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exe.principle.singleresponsibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SingleResponsibility2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exe.principle.singleresponsibility.SingleResponsibility2" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exe.principle.singleresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,17 +392,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SingleResponsibility1" />
-      <item itemvalue="Application.SingleResponsibility2" />
       <item itemvalue="Application.SingleResponsibility3" />
       <item itemvalue="Application.Segregation1" />
+      <item itemvalue="Application.DependecyInversion" />
+      <item itemvalue="Application.DependecyInversion (1)" />
+      <item itemvalue="Application.DependencyPass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DependencyPass" />
+        <item itemvalue="Application.DependecyInversion (1)" />
+        <item itemvalue="Application.DependecyInversion" />
         <item itemvalue="Application.Segregation1" />
         <item itemvalue="Application.SingleResponsibility3" />
-        <item itemvalue="Application.SingleResponsibility2" />
-        <item itemvalue="Application.SingleResponsibility1" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +419,12 @@
       <option name="presentableId" value="Default" />
       <updated>1622169209632</updated>
       <workItem from="1622169233154" duration="8126000" />
-      <workItem from="1622420613051" duration="7046000" />
+      <workItem from="1622420613051" duration="17475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15172000" />
+    <option name="totallyTimeSpent" value="25601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,7 +437,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
@@ -401,9 +457,9 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936978" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936978" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936978" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14686824" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Hybris Console [Experimental]" order="7" />
@@ -547,10 +603,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exe/principle/segregation/improve/Segregation1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#407#408#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
@@ -558,6 +621,49 @@
             <element signature="e#561#562#0" expanded="true" />
             <element signature="e#607#608#0" expanded="true" />
             <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/DependecyInversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependecyInversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exe/principle/inversion/improve/DependencyPass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -590,7 +696,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
